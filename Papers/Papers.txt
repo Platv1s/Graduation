@@ -1,0 +1,12 @@
+USING DATA MINING TO PREDICT SECONDARY SCHOOL STUDENT PERFORMANCE (P. Cortez)
+	Only Portugese students, using student grades, demographic, social and school related features.
+	got results that grades where important but also features such as absence and parent's job(s). This study uses DM techniques
+VALIDITY OF HIGH-SCHOOL GRADES IN PREDICTING STUDENT SUCCESS BEYOND THE FRESHMAN YEAR: High-School Record vs. Standardized Tests as Indicators of Four-Year College Outcomes (S. Geiser, 2017)
+	Not so relevant, only looks at how reliable freshman grades are in predicting the succes of students, compared to their High-school record.
+Data Mining: A prediction for performance improvement using classification (B. K. Bhardwaj, 2011)
+	Indian student records which are used to generate a 300 record big database. This database in turn is used for a Bayes classification model, used a lot of attributes
+	Conclusion: a lot of factors have influence on how a student performs. (Typing error in abstract maybe not so thrustworthy?)
+Predicting Student Performance by Using Data Mining Methods for Classification (D. Kabakchieva 2013)
+	Predicting student performance on university level, only initial results in the paper and those results are not that great.
+
+
